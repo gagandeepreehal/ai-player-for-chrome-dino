@@ -105,14 +105,9 @@ console in the element inspector:
 setInterval(function (){Runner.instance_.tRex.xPos = 21}, 2000)
 ```
 
-## Development guidelines
-
-Please, follow the Node.js style guide from [Felix](https://github.com/felixge/node-style-guide).
-It is not complex, and has a great simple pattern for things.
 
 ## Credits
 
-- [Ivan Seidel](https://github.com/ivanseidel)
-- [João Pedro](https://github.com/joaopedrovbs)
-- [Tony Ngan](https://github.com/tngan)
+- Ivan Seidel
+
 
