@@ -1,6 +1,4 @@
-# IAMDinosaur
-
-![IAMDinosaur](https://raw.githubusercontent.com/ivanseidel/IAMDinosaur/master/assets/top_score.png)
+# AI Chrome Dino Player
 
 A simple artificial intelligence to teach Google Chrome's offline dinosaur to
 jump cactus, using Neural Networks and a simple Genetic Algorithm.
