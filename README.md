@@ -5,8 +5,6 @@
 A simple artificial intelligence to teach Google Chrome's offline dinosaur to
 jump cactus, using Neural Networks and a simple Genetic Algorithm.
 
-**Watch** this video to see it in action, and learn how it works: [Artificial Intelligence with Google's Dinosaur](https://youtu.be/P7XHzqZjXQs)
-
 ## Installation
 
 1. Install `Node.js` on your computer.
@@ -118,5 +116,5 @@ It is not complex, and has a great simple pattern for things.
 
 - [Ivan Seidel](https://github.com/ivanseidel)
 - [João Pedro](https://github.com/joaopedrovbs)
-- [Tony Ngan](https://github.com/tngan) **The idea came from him**
+- [Tony Ngan](https://github.com/tngan)
 
